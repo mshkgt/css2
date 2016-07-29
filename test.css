@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body{
+	background-repeat: repeat-x;
+	background-position: center 217px;
+	background-color: #F0F0E8;
+}
+#TopStrService1 ul li{
+	margin: 3px 0 0 0;
+}
+#Top,#Main{
+	background-color: #FFF;
+}
+#Main{
+	margin-top: 0;
+}
